@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-ander",
+  "version": "1.0.0",
+  "description": "random string messages",
+  "main": "index.js",
+  "bin": {
+    "random-str-msg-ander": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnderPonte/random-str-msg-ander.git"
+  },
+  "keywords": [],
+  "author": "Anderson Ramirez <andersonramirez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnderPonte/random-str-msg-ander/issues"
+  },
+  "homepage": "https://github.com/AnderPonte/random-str-msg-ander#readme",
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
